@@ -100,10 +100,13 @@
 'author',
 'digit',
 'state',
-'telepsychotherapy',
+'telepsychotherapi',
 'internet',
 'futur',
 'questionnair',
 'tmh',
 'mental',
-'integr']
+'integr',
+'associ',
+'american',
+]
